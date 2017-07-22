@@ -8,7 +8,8 @@
 - https://code.tutsplus.com/tutorials/sorting-and-searching-in-python--cms-25668
 - http://python-textbok.readthedocs.io/en/latest/Variables_and_Scope.html
 - https://www.thetrc.org/dc/?controller=pages&action=home&smsg=WW91IG11c3QgYmUgbG9nZ2VkIGluIHRvIHNlZSB0aGF0IHBhZ2Uu
-- https://courses.edx.org/login?next=/courses/course-- v1%3AUTAustinX%2BUT.WTCS.14.01x%2B2T2017/courseware/79798d7f5f634f7bbf2418b5277c7fe4/7d3ced28df29440dabe28a0588c9915c/
+- https://courses.edx.org/login?next=/courses/course--v1%3AUTAustinX%2BUT.WTCS.14.01x%2B2T2017/courseware/79798d7f5f634f7bbf2418b5277c7fe4/7d3ced28df29440dabe28a0588c9915c/
+
 - https://www.freecodecamp.com/map
 - http://codingbat.com/java
 - http://oncslessons.net
