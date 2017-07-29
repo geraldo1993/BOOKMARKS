@@ -56,3 +56,9 @@
 - https://automatetheboringstuff.com
 - http://scratched.gse.harvard.edu/guide/download.html
 - https://www.edutopia.org/blog/15-ways-teaching-students-coding-vicki-davis
+
+
+
+# Teaching Sources 
+- https://k12cs.org/
+- http://csdt.rpi.edu/
