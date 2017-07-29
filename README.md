@@ -62,3 +62,9 @@
 # Teaching Sources 
 - https://k12cs.org/
 - http://csdt.rpi.edu/
+
+
+# Ethical Hacking 
+
+- http://archive.is/www.happyhacker.org
+- https://www.oodaloop.com/category/resource/
