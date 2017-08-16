@@ -3,17 +3,16 @@
 
 - [ ] [Fiverr](https://www.fiverr.com)
 - [ ] [CS FOR ALL TEACHERS](https://csforallteachers.org)
-- https://www.khanacademy.org/resources/out-of-school-time-programs/teaching-computing/a/classroom-debugging-guide
-- https://www.weteachcs.org
-- https://code.tutsplus.com/tutorials/sorting-and-searching-in-python--cms-25668
-- http://python-textbok.readthedocs.io/en/latest/Variables_and_Scope.html
-- https://www.thetrc.org/dc/?controller=pages&action=home&smsg=WW91IG11c3QgYmUgbG9nZ2VkIGluIHRvIHNlZSB0aGF0IHBhZ2Uu
-- https://courses.edx.org/login?next=/courses/course--v1%3AUTAustinX%2BUT.WTCS.14.01x%2B2T2017/courseware/79798d7f5f634f7bbf2418b5277c7fe4/7d3ced28df29440dabe28a0588c9915c/
+- [ ] [Teaching Computer Programming](https://www.khanacademy.org/resources/out-of-school-time-programs/teaching-computing/a/classroom-debugging-guide)
+- [ ] [WeTeach_CS](https://www.weteachcs.org)
+- [ ] [Sorting and Searching in Python](https://code.tutsplus.com/tutorials/sorting-and-searching-in-python--cms-25668)
+- [ ] [Object-Oriented Programming with python](http://python-textbok.readthedocs.io/en/latest/Variables_and_Scope.html)
+- [ ] [UT CSTEM Datacenter](https://www.thetrc.org/dc/?controller=pages&action=home&smsg=WW91IG11c3QgYmUgbG9nZ2VkIGluIHRvIHNlZSB0aGF0IHBhZ2Uu)
 
-- https://www.freecodecamp.com/map
-- http://codingbat.com/java
-- http://oncslessons.net
-- https://docs.python.org/3/library/stdtypes.html
+- [ ] [Free Code Camp](https://www.freecodecamp.com/map)
+- [ ] [CodingBat ](http://codingbat.com/java)
+- [ ] [Welcome to O(N)CS Lessons]( [Welcome to O(N)CS Lessons](http://oncslessons.net)
+- [ ] [The Python Standard Library](https://docs.python.org/3/library/stdtypes.html)
 - https://docs.python.org/3/library/functions.html
 - https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M
 - https://www.youtube.com/watch?v=R6wQmWMDiB4
