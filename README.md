@@ -11,7 +11,7 @@
 
 - [ ] [Free Code Camp](https://www.freecodecamp.com/map)
 - [ ] [CodingBat ](http://codingbat.com/java)
-- [ ] [Welcome to O(N)CS Lessons]( [Welcome to O(N)CS Lessons](http://oncslessons.net)
+- [ ] [Welcome to O(N)CS Lessons](http://oncslessons.net)
 - [ ] [The Python Standard Library](https://docs.python.org/3/library/stdtypes.html)
 - https://docs.python.org/3/library/functions.html
 - https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M
