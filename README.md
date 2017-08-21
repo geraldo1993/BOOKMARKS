@@ -61,6 +61,10 @@
 # Teaching Sources 
 - https://k12cs.org/
 - http://csdt.rpi.edu/
+- [ ] [Thinkuknow](https://www.thinkuknow.co.uk/)
+- [ ] [Teens ](http://origin.www.netsmartz.org/Teens)
+
+
 
 
 # Ethical Hacking 
